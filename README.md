@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently doing my double degree Data Science MSc at UPM in Madrid!
+I am currently doing my double degree Data Science MSc at UPM in Madrid! (EIT Digital)
 
 <!--
 **25FAdam/25FAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
