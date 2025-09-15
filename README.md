@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently pursuing a double M.Sc. in Data Science through the EIT Digital Master School, with my first year at UPM in Madrid 🇪🇸 and my second at ELTE in Budapest 🇭🇺. My passion lies at the intersection of data, AI, and digital innovation — turning raw information into impactful solutions.
+I'm currently pursuing a double M.Sc. in Data Science through the EIT Digital Master School, with my first year at UPM in Madrid 🇪🇸 and my second at ELTE in Budapest 🇭🇺. My passion lies at the intersection of data, AI, and digital innovation - turning raw information into impactful solutions.
 
 Curious what happens when curiosity meets code? Scroll down and check out some of the projects I’ve been tangled up in.
 
